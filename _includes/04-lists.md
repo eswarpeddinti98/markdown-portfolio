@@ -1,5 +1,5 @@
 :heart: 
-* _Intro_
+* **Intro**
 * **Skills**
   * _Hard Skills_
   * _Soft Skills_
