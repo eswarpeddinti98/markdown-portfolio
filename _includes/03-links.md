@@ -1,1 +1,2 @@
 - [Linkedin Profile] ![Linkedin](linkedin.com/in/eswar-kumar-peddinti-096758159)
+- [Image of Eswar Peddinti] ![eswar](https://user-images.githubusercontent.com/99474998/181193369-5dd94028-9d00-42c6-8d93-dc598e765694.jpg)
