@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+- [Image of Eswar Peddinti] (https://user-images.githubusercontent.com/99474998/181191430-f02a513f-f14c-4fc2-bc41-9d1b03485b04.jpg)
